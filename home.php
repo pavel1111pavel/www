@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <title>Обо мне</title>
     <link type="image/x-icon" rel="shortcut icon"
         href="https://www.ispring.ru/ispring_content/content/images/favicon/favicon.ico">
+    <link rel='stylesheet' type="text/css" href="/static/css/style.css">
 </head>
 
 <body>
@@ -15,8 +16,8 @@
 
     <main>
         <h1>⚡Никитин Павел</h1>
-        <img src="https://sun7-21.userapi.com/impg/oXxAB8sFO44BftjpE8CTcxVDe_IhrsfaX2HPBA/bymwVKa0_10.jpg?size=1439x2160&quality=95&sign=0773b1e81bd634192c103842e8f1a06c&type=album"
-            height="200px" alt="я и воджь" border="10 px" vspace="2px">
+        <img src="https://a.d-cd.net/XmtPdFb25hEB7iT9G2Qul-LzHz8-1920.jpg"
+            height="200px" alt="я" border="10 px" vspace="2px">
         <h2>⚡ИПС 2024-2026</h2>
         <h2>⚡О себе</h2>
     </main>
@@ -29,3 +30,4 @@
         </div>
     </footer>
 </body>
+</html>

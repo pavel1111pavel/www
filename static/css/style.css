@@ -1,0 +1,11 @@
+.site_header {
+    background-color: lightblue; /* Изменяем цвет фона */
+    padding: 10px; /* Добавляем отступы */
+    border: 1px solid #ccc; /* Добавляем рамку */
+}
+
+.page {
+    color: red; /* Изменяем цвет текста ссылки */
+    text-decoration: none; /* Убираем подчеркивание */
+    font-weight: bold; /* Делаем текст жирным */
+}
